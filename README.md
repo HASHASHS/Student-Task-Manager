@@ -31,6 +31,10 @@ Help taken from GeeksforGeeks
 - Enter task details when prompted
 - Tasks are automatically saved
 
+- ## Future Improvements
+- Add GUI
+- Add task priority
+
 
 ## Author
 Suryaansh Sinha
